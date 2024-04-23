@@ -32,7 +32,7 @@ public class Presenter implements ActionListener {
     private void addBoxAction() {
         Box box = createBox();
 
-        boxStack.add(box);
+        boxStack.push(box);
         view.setBoxesAmountToPaint(boxStack.size());
         view.addBoxColor(box.getColor());
         view.paintBoxes();

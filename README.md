@@ -1,18 +1,17 @@
-## Getting Started
+# Demostracion Pilas
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Programa que permite observar el funcionamiento de pilas.
 
-## Folder Structure
+## Requisitos
 
-The workspace contains two folders by default, where:
+- Java JDK 17 (seguro)
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Instrucciones de uso
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+- Darle al boton de agregar para aparecer una caja de un color aleatorio
+- Darle al boton de quitar para desaparecer la caja de mas arriba
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## Autores
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+- Walter Mauricio Alfonso Martinez 
+- Fabian Leonardo Correa Rojas
